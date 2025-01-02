@@ -1,4 +1,5 @@
 ### study-of-basic-gates
+**DATE:27/09/2024**
 
 **AIM:** 
 
@@ -88,12 +89,13 @@ endmodule
 ![image](https://github.com/user-attachments/assets/96693a06-276c-4012-abc7-41c7a1c6ee62)
 
 
-**RTL :** 
+**RTL DIAGRAM :** 
 
-![Screenshot (31)](https://github.com/user-attachments/assets/c1b2b47b-f24d-4e61-a1d4-6388a3de1f59)
+![image](https://github.com/user-attachments/assets/fe223afc-0aec-477c-9ab0-efcc929f41e5)
 
 **TIMING WAVEFORM:**
-![Screenshot (36)](https://github.com/user-attachments/assets/94cfc3cb-af5a-439f-b791-90fd395a8c56)
+
+![image](https://github.com/user-attachments/assets/3a78f597-0f7f-4759-8aeb-7f958687e4f4)
 
 **Result:**
 
